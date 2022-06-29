@@ -75,7 +75,7 @@ namespace Races
                 {
                     buttonRace.Enabled = false;
                     bobBet.Amount = 0;
-                    labelBobBet.Text = al.Name + " hasn't placed a bet";
+                    labelBobBet.Text = bob.Name + " hasn't placed a bet";
                     resetMoneyAndDog();
                 }
             }
