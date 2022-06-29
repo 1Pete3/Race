@@ -1,0 +1,11 @@
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.csproj.AssemblyReference.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.csproj.SuggestedBindingRedirects.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.Form1.resources
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.Properties.Resources.resources
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.csproj.GenerateResource.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.csproj.CoreCompileInputs.cache
+C:\Users\skowr\Desktop\DOTNET\Book\Races\bin\Debug\Races.exe.config
+C:\Users\skowr\Desktop\DOTNET\Book\Races\bin\Debug\Races.exe
+C:\Users\skowr\Desktop\DOTNET\Book\Races\bin\Debug\Races.pdb
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.exe
+C:\Users\skowr\Desktop\DOTNET\Book\Races\obj\Debug\Races.pdb
